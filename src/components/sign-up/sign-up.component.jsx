@@ -6,7 +6,7 @@ import CustomButton from "../custom-buttom/custom-button.component";
 import {
   auth,
   createUserProfileDocument,
-} from "../../components/firebase/firebase.utils";
+} from "../../firebase/firebase.utils";
 
 import "./sign-up.styles.scss";
 
